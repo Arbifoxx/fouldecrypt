@@ -1,0 +1,10 @@
+Package: com.auriot.fouldecrypt
+Name: fouldecrypt (auriot fork)
+Version: 0.0.4
+Architecture: iphoneos-arm
+Depends: ai.akemi.appsyncunified | net.angelxwind.appsyncunified, libkrw0
+Description: Directly decrypt binaries like flexdecrypt, but also supports iOS 14/15
+Maintainer: auriot
+Author: auriot
+Section: System
+Tag: role::hacker

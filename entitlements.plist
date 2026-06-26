@@ -34,5 +34,18 @@
     <true/>
     <key>task_for_pid-allow</key>
     <true/>
+    <key>com.apple.private.mobileinstall.allowedSPI</key>
+	<array>
+		<string>Install</string>
+		<string>InstallForLaunchServices</string>
+		<string>Uninstall</string>
+		<string>UninstallForLaunchServices</string>
+	</array>
+	<key>com.apple.security.exception.mach-lookup.global-name</key>
+	<array>
+		<string>com.apple.mobile.installd</string>
+	</array>
+	<key>platform-application</key>
+	<true/>
 </dict>
 </plist>

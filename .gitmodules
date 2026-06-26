@@ -1,3 +1,9 @@
 [submodule "kerninfra"]
 	path = kerninfra
-	url = https://github.com/NyaMisty/KernInfra
+	url = https://github.com/Arbifoxx/KernInfra
+[submodule "ZipArchive"]
+	path = ZipArchive
+	url = https://github.com/ZipArchive/ZipArchive
+[submodule "GCDWebServer"]
+	path = GCDWebServer
+	url = https://github.com/swisspol/GCDWebServer/
